@@ -1,5 +1,3 @@
-![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v4.bmp?raw=true)
-
 <h1>Backend Developer</h1>
 
 Hello world! My name is Lucy, I am a self-taught developer focused in backend. 🌝
