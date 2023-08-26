@@ -14,5 +14,5 @@ Hello world! My name is Lucy, I am a self-taught developer focused in backend. ğ
 <li>ğŸŒ</g-emoji> I'm learning about AWS and Docker.</li>
 </ul><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianaAG)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaAG&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
