@@ -1,16 +1,18 @@
-### Hi there 👋
+![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v4.bmp?raw=true)
 
-<!--
-**LucianaAG/LucianaAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Backend Developer</h1>
 
-Here are some ideas to get you started:
+Hello world! My name is Lucy, I am a self-taught developer focused in backend. 🌝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About me:</h2>
+
+<ul>
+<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> I'm a backend developer.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I am perfecting myself as a Backend developer and venturing into new technologies.</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me: <a>aqui mismo ;)</a>  </li>
+<li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> My strongest skill is Python with Django REST Framework.</li>
+<li>🌝</g-emoji> I'm learning about AWS and Docker.</li>
+</ul><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
