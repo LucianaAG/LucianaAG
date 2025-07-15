@@ -1,4 +1,4 @@
-<h1>Backend Developer</h1>
+<h1>Junior Fullstack Developer</h1>
 
 Hello world! My name is Lucy, I am a self-taught developer focused in backend. 🌝
 
