@@ -1,16 +1,40 @@
-<h1>Junior Fullstack Developer</h1>
+# 👩‍💻 Luciana Gauto
 
-Hello world! My name is Lucy, I am a self-taught developer focused in backend. 🌝
+**Junior Full Stack Developer**
 
-<h2>About me:</h2>
+---
 
-<ul>
-<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> I'm a backend developer.</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I am perfecting myself as a Backend developer and venturing into new technologies.</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me: <a>aqui mismo ;)</a>  </li>
-<li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> My strongest skill is Python with Django REST Framework.</li>
-<li>🌝</g-emoji> I'm learning about AWS and Docker.</li>
-</ul><br>
+### 💡 Sobre mí
+
+Soy desarrolladora full stack junior con base sólida en programación orientada a objetos, desarrollo web y bases de datos. Estoy en formación académica y busco oportunidades para aplicar y ampliar mis conocimientos en entornos reales.
+
+---
+
+### 🧰 Stack técnico
+
+- **Lenguajes:** PHP, Python, JavaScript, Java, C#
+- **Frameworks:** Django, Node.js
+- **Frontend:** HTML, CSS, Bootstrap
+- **Bases de datos:** MySQL, PostgreSQL
+- **Contenedores:** Docker
+- **Versionado:** Git, GitHub
+- **Cloud:** Conocimientos teóricos en AWS
+
+---
+
+### 🎓 Formación
+
+**Tecnicatura Universitaria en Programación**  
+Universidad Tecnológica Nacional – UTN  
+📍 Río Grande, Tierra del Fuego | 🗓️ Desde marzo 2024
+
+---
+
+### 📫 Contacto
+
+- Email: lucygauto35@gmail.com 
+- LinkedIn: [linkedin.com/in/luciana-altamirano]([https://linkedin.com/in/lucianagauto](https://www.linkedin.com/in/luciana-altamirano/))
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianaAG)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaAG&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
