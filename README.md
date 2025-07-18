@@ -34,6 +34,3 @@ Universidad Tecnológica Nacional – UTN
 
 - Email: lucygauto35@gmail.com 
 - LinkedIn: [linkedin.com/in/luciana-altamirano](https://www.linkedin.com/in/luciana-altamirano/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianaAG)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianaAG&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
