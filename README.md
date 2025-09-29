@@ -1,12 +1,12 @@
 # Milagros Luciana Altamirano
 
-**Junior Full Stack Developer**
+**Junior Backend Developer**
 
 ---
 
 ### Sobre mí
 
-Soy desarrolladora full stack junior en formación, con conocimientos en programación orientada a objetos, bases de datos, tecnologías web y backend. Actualmente estudio programación en la universidad y ya cuento con experiencias prácticas donde apliqué mis conocimientos en proyectos académicos y colaborativos.
+Soy desarrolladora Backend junior en formación, con conocimientos en programación orientada a objetos, bases de datos, tecnologías web y backend. Actualmente estudio programación en la universidad y ya cuento con experiencias prácticas donde apliqué mis conocimientos en proyectos académicos y colaborativos.
 
 ---
 
