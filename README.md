@@ -1,8 +1,5 @@
-# Milagros Luciana Altamirano
+# Milagros Luciana Altamirano - Backend Developer
 
-**Backend Developer**
-
----
 
 ### Sobre mí
 
