@@ -3,7 +3,7 @@
 
 ### Sobre mí
 
-Soy desarrolladora Backend con conocimientos en bases de datos, tecnologías web y backend. Actualmente estudio programación en la universidad y ya cuento con experiencias prácticas donde apliqué mis conocimientos en proyectos académicos y colaborativos.
+Soy desarrolladora Backend. Actualmente estudio programación en la universidad y ya cuento con experiencias prácticas donde apliqué mis conocimientos en proyectos académicos y colaborativos.
 
 ---
 
