@@ -23,7 +23,6 @@ Soy desarrolladora Backend, tambien diseño y despliego infraestructura como cod
 **Tecnicatura Universitaria en Programación**  
 
 Universidad Tecnológica Nacional – UTN  
-Río Grande, Tierra del Fuego | Desde marzo 2024 - actualidad
 
 ### Contacto
 
