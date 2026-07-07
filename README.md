@@ -2,15 +2,13 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![HCP Terraform](https://img.shields.io/badge/HCP_Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Sobre mí
 
 Soy desarrolladora Backend. Graduada como Tecnica Universitaria en Programacion. 
-
----
 
 ### Stack técnico
 
@@ -20,16 +18,12 @@ Soy desarrolladora Backend. Graduada como Tecnica Universitaria en Programacion.
 - **Contenedores:** Docker, Docker Compose
 - **Cloud:** AWS, OCI, Terraform, HCP
 
----
-
 ### Formación
 
 **Tecnicatura Universitaria en Programación**  
 
 Universidad Tecnológica Nacional – UTN  
 Río Grande, Tierra del Fuego | Desde marzo 2024 - actualidad
-
----
 
 ### Contacto
 
