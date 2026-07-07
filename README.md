@@ -16,7 +16,8 @@ Soy desarrolladora Backend, tambien diseño y despliego infraestructura como cod
 - **Frameworks:** Node.js, Express, LangChain, HuggingFace
 - **Bases de datos:** MySQL, PostgreSQL
 - **Contenedores:** Docker, Docker Compose
-- **Cloud:** AWS, OCI, Terraform, HCP
+- **Cloud:** AWS, OCI
+- **IAC:** Terraform, HCP Terraform
 
 ### Formación
 
