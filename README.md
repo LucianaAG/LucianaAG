@@ -1,4 +1,4 @@
-# Luciana Altamirano - Backend Developer | Diseño y despliego infraestructura como código (AWS · OCI)
+# Luciana Altamirano - Backend Developer | IaC (AWS · OCI)
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![HCP Terraform](https://img.shields.io/badge/HCP_Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Soy desarrolladora Backend. Graduada como Tecnica Universitaria en Programacion. 
+Soy desarrolladora Backend, tambien diseño y despliego infraestructura como codigo y estoy graduada como Tecnica Universitaria en Programacion. 
 
 ### Stack técnico
 
