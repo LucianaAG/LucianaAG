@@ -17,7 +17,7 @@ Soy desarrolladora Backend, tambien diseño y despliego infraestructura como cod
 - **Bases de datos:** MySQL, PostgreSQL
 - **Contenedores:** Docker, Docker Compose
 - **Cloud:** AWS, OCI
-- **IAC:** Terraform, HCP Terraform
+- **IaC:** Terraform, HCP Terraform
 
 ### Formación
 
