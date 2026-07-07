@@ -13,7 +13,7 @@ Soy desarrolladora Backend, tambien diseño y despliego infraestructura como cod
 ### Stack técnico
 
 - **Lenguajes:** Python, JavaScript, Java
-- **Frameworks:** Node.js, Express, LangChain
+- **Frameworks:** Node.js, Express, LangChain, HuggingFace
 - **Bases de datos:** MySQL, PostgreSQL
 - **Contenedores:** Docker, Docker Compose
 - **Cloud:** AWS, OCI, Terraform, HCP
