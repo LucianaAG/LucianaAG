@@ -23,7 +23,9 @@ Soy desarrolladora Backend, tambien diseño y despliego infraestructura como cod
 
 **Tecnicatura Universitaria en Programación**  
 
-Universidad Tecnológica Nacional – UTN  
+### Certificaciones
+
+**Oracle Cloud Infrastructure 2025 Certified Foundations Associate — [Ver credencial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F97620AE9814B6D8897A0894911410C41085D855DAD1BD79F1347EC9B7B9DDF)**
 
 ### Contacto
 
